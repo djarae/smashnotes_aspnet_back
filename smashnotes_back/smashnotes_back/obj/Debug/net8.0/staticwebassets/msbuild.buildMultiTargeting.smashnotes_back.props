@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\smashnotes_back.props" />
+</Project>
