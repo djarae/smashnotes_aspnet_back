@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\smashnotes_aspnet_back\\smashnotes_back\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0401B853-B790-41EB-B3FC-BEBD347699ED}|smashnotes_back\\smashnotes_back.csproj|c:\\users\\dieoj\\onedrive\\documentos\\repositorios\\smashnotes_aspnet_back\\smashnotes_back\\smashnotes_back\\controllers\\matchupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0401B853-B790-41EB-B3FC-BEBD347699ED}|smashnotes_back\\smashnotes_back.csproj|solutionrelative:smashnotes_back\\controllers\\matchupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0401B853-B790-41EB-B3FC-BEBD347699ED}|smashnotes_back\\smashnotes_back.csproj|c:\\users\\dieoj\\onedrive\\documentos\\repositorios\\smashnotes_aspnet_back\\smashnotes_back\\smashnotes_back\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0401B853-B790-41EB-B3FC-BEBD347699ED}|smashnotes_back\\smashnotes_back.csproj|solutionrelative:smashnotes_back\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0401B853-B790-41EB-B3FC-BEBD347699ED}|smashnotes_back\\smashnotes_back.csproj|c:\\users\\dieoj\\onedrive\\documentos\\repositorios\\smashnotes_aspnet_back\\smashnotes_back\\smashnotes_back\\controllers\\matchup4controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0401B853-B790-41EB-B3FC-BEBD347699ED}|smashnotes_back\\smashnotes_back.csproj|solutionrelative:smashnotes_back\\controllers\\matchup4controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0401B853-B790-41EB-B3FC-BEBD347699ED}|smashnotes_back\\smashnotes_back.csproj|c:\\users\\dieoj\\onedrive\\documentos\\repositorios\\smashnotes_aspnet_back\\smashnotes_back\\smashnotes_back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0401B853-B790-41EB-B3FC-BEBD347699ED}|smashnotes_back\\smashnotes_back.csproj|solutionrelative:smashnotes_back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0401B853-B790-41EB-B3FC-BEBD347699ED}|smashnotes_back\\smashnotes_back.csproj|c:\\users\\dieoj\\onedrive\\documentos\\repositorios\\smashnotes_aspnet_back\\smashnotes_back\\smashnotes_back\\controllers\\matchup2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0401B853-B790-41EB-B3FC-BEBD347699ED}|smashnotes_back\\smashnotes_back.csproj|solutionrelative:smashnotes_back\\controllers\\matchup2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0401B853-B790-41EB-B3FC-BEBD347699ED}|smashnotes_back\\smashnotes_back.csproj|c:\\users\\dieoj\\onedrive\\documentos\\repositorios\\smashnotes_aspnet_back\\smashnotes_back\\smashnotes_back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0401B853-B790-41EB-B3FC-BEBD347699ED}|smashnotes_back\\smashnotes_back.csproj|solutionrelative:smashnotes_back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0401B853-B790-41EB-B3FC-BEBD347699ED}|smashnotes_back\\smashnotes_back.csproj|c:\\users\\dieoj\\onedrive\\documentos\\repositorios\\smashnotes_aspnet_back\\smashnotes_back\\smashnotes_back\\controllers\\matchup3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0401B853-B790-41EB-B3FC-BEBD347699ED}|smashnotes_back\\smashnotes_back.csproj|solutionrelative:smashnotes_back\\controllers\\matchup3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MatchupController.cs",
-              "DocumentMoniker": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\smashnotes_aspnet_back\\smashnotes_back\\smashnotes_back\\Controllers\\MatchupController.cs",
-              "RelativeDocumentMoniker": "smashnotes_back\\Controllers\\MatchupController.cs",
-              "ToolTip": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\smashnotes_aspnet_back\\smashnotes_back\\smashnotes_back\\Controllers\\MatchupController.cs",
-              "RelativeToolTip": "smashnotes_back\\Controllers\\MatchupController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "DocumentIndex": 2,
+              "Title": "Matchup2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\smashnotes_aspnet_back\\smashnotes_back\\smashnotes_back\\Controllers\\Matchup2Controller.cs",
+              "RelativeDocumentMoniker": "smashnotes_back\\Controllers\\Matchup2Controller.cs",
+              "ToolTip": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\smashnotes_aspnet_back\\smashnotes_back\\smashnotes_back\\Controllers\\Matchup2Controller.cs",
+              "RelativeToolTip": "smashnotes_back\\Controllers\\Matchup2Controller.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowC0AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T04:24:18.264Z",
+              "WhenOpened": "2024-08-29T16:25:51.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\smashnotes_aspnet_back\\smashnotes_back\\smashnotes_back\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "smashnotes_back\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\smashnotes_aspnet_back\\smashnotes_back\\smashnotes_back\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "smashnotes_back\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T04:19:51.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\smashnotes_aspnet_back\\smashnotes_back\\smashnotes_back\\Program.cs",
               "RelativeDocumentMoniker": "smashnotes_back\\Program.cs",
               "ToolTip": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\smashnotes_aspnet_back\\smashnotes_back\\smashnotes_back\\Program.cs",
               "RelativeToolTip": "smashnotes_back\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAmwBwAAAAdAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAwwC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T02:35:04.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Matchup3Controller.cs",
+              "DocumentMoniker": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\smashnotes_aspnet_back\\smashnotes_back\\smashnotes_back\\Controllers\\Matchup3Controller.cs",
+              "RelativeDocumentMoniker": "smashnotes_back\\Controllers\\Matchup3Controller.cs",
+              "ToolTip": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\smashnotes_aspnet_back\\smashnotes_back\\smashnotes_back\\Controllers\\Matchup3Controller.cs",
+              "RelativeToolTip": "smashnotes_back\\Controllers\\Matchup3Controller.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwBwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T05:46:31.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Matchup4Controller.cs",
+              "DocumentMoniker": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\smashnotes_aspnet_back\\smashnotes_back\\smashnotes_back\\Controllers\\Matchup4Controller.cs",
+              "RelativeDocumentMoniker": "smashnotes_back\\Controllers\\Matchup4Controller.cs",
+              "ToolTip": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\smashnotes_aspnet_back\\smashnotes_back\\smashnotes_back\\Controllers\\Matchup4Controller.cs*",
+              "RelativeToolTip": "smashnotes_back\\Controllers\\Matchup4Controller.cs*",
+              "ViewState": "AQIAACYAAAAAAAAAAAAswC0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:27:31.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\smashnotes_aspnet_back\\smashnotes_back\\smashnotes_back\\appsettings.json",
+              "RelativeDocumentMoniker": "smashnotes_back\\appsettings.json",
+              "ToolTip": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\smashnotes_aspnet_back\\smashnotes_back\\smashnotes_back\\appsettings.json",
+              "RelativeToolTip": "smashnotes_back\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T16:12:10.783Z",
               "EditorCaption": ""
             }
           ]

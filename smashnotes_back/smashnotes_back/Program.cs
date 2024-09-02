@@ -1,3 +1,5 @@
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -24,6 +26,7 @@ builder.Services.AddCors(options =>
 
 
 var app = builder.Build();
+
 
 // Correccion problema cors!
 app.UseCors("NuevaPolitica");

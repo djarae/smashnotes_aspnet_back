@@ -30,3 +30,9 @@ C:\Users\dieoj\OneDrive\Documentos\REPOSITORIOS\smashnotes_aspnet_back\smashnote
 C:\Users\dieoj\OneDrive\Documentos\REPOSITORIOS\smashnotes_aspnet_back\smashnotes_back\smashnotes_back\obj\Debug\net8.0\smashnotes_back.pdb
 C:\Users\dieoj\OneDrive\Documentos\REPOSITORIOS\smashnotes_aspnet_back\smashnotes_back\smashnotes_back\obj\Debug\net8.0\smashnotes_back.genruntimeconfig.cache
 C:\Users\dieoj\OneDrive\Documentos\REPOSITORIOS\smashnotes_aspnet_back\smashnotes_back\smashnotes_back\obj\Debug\net8.0\ref\smashnotes_back.dll
+C:\Users\dieoj\OneDrive\Documentos\REPOSITORIOS\smashnotes_aspnet_back\smashnotes_back\smashnotes_back\obj\Debug\net8.0\smashnotes_back.sourcelink.json
+C:\Users\dieoj\OneDrive\Documentos\REPOSITORIOS\smashnotes_aspnet_back\smashnotes_back\smashnotes_back\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\dieoj\OneDrive\Documentos\REPOSITORIOS\smashnotes_aspnet_back\smashnotes_back\smashnotes_back\bin\Debug\net8.0\libman.json
+C:\Users\dieoj\OneDrive\Documentos\REPOSITORIOS\smashnotes_aspnet_back\smashnotes_back\smashnotes_back\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\dieoj\OneDrive\Documentos\REPOSITORIOS\smashnotes_aspnet_back\smashnotes_back\smashnotes_back\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\dieoj\OneDrive\Documentos\REPOSITORIOS\smashnotes_aspnet_back\smashnotes_back\smashnotes_back\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

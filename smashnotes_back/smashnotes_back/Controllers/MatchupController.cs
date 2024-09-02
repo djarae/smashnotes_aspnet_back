@@ -11,8 +11,13 @@ namespace smashnotes_back.Controllers
         [HttpGet(Name = "GetMatchup")]
         public string Get()
         {
-            return "asdsa";
+            return "Re-envio de data 11111";
+
+            return "Re-envio de data";
         }
+
+
+
 
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("smashnotes_back")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bff42194b943fcc1179ff279daacb8e789bb1ab0")]
 [assembly: System.Reflection.AssemblyProductAttribute("smashnotes_back")]
 [assembly: System.Reflection.AssemblyTitleAttribute("smashnotes_back")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
